@@ -1,0 +1,15 @@
+E:\Ejercicio02\bin\Debug\net6.0\Ejercicio02.exe
+E:\Ejercicio02\bin\Debug\net6.0\Ejercicio02.deps.json
+E:\Ejercicio02\bin\Debug\net6.0\Ejercicio02.runtimeconfig.json
+E:\Ejercicio02\bin\Debug\net6.0\Ejercicio02.dll
+E:\Ejercicio02\bin\Debug\net6.0\Ejercicio02.pdb
+E:\Ejercicio02\obj\Debug\net6.0\Ejercicio02.csproj.AssemblyReference.cache
+E:\Ejercicio02\obj\Debug\net6.0\Ejercicio02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ejercicio02\obj\Debug\net6.0\Ejercicio02.AssemblyInfoInputs.cache
+E:\Ejercicio02\obj\Debug\net6.0\Ejercicio02.AssemblyInfo.cs
+E:\Ejercicio02\obj\Debug\net6.0\Ejercicio02.csproj.CoreCompileInputs.cache
+E:\Ejercicio02\obj\Debug\net6.0\Ejercicio02.dll
+E:\Ejercicio02\obj\Debug\net6.0\refint\Ejercicio02.dll
+E:\Ejercicio02\obj\Debug\net6.0\Ejercicio02.pdb
+E:\Ejercicio02\obj\Debug\net6.0\Ejercicio02.genruntimeconfig.cache
+E:\Ejercicio02\obj\Debug\net6.0\ref\Ejercicio02.dll
